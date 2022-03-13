@@ -5,13 +5,11 @@ import Container from './components/Container/Container';
 
 const App = () => {
   return (
-    <div>
       <Container>
         <Hero />
         <SearchForm />
         <List />
       </Container>
-    </div>
   );
 };
 
