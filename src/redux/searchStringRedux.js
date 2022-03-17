@@ -1,8 +1,3 @@
-
-
-
-
-
 // actions
 const createActionName = actionName => `app/searchString/${actionName}`;
 const UPDATE_SEARCHSTRING = createActionName('UPDATE_SEARCHSTRING');
